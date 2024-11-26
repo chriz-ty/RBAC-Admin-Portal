@@ -68,7 +68,7 @@ Hosted Link: [https://rbac-admin-portal.vercel.app](https://rbac-admin-portal.ve
 
 ### Prerequisites
 - Node.js (v16+)
-- npm or yarn
+- npm
 
 ### Installation Steps
 1. Clone the repository
@@ -87,11 +87,6 @@ Hosted Link: [https://rbac-admin-portal.vercel.app](https://rbac-admin-portal.ve
    npm run dev
    ```
 
-## 🌈 Configuration
-
-### Environment Variables
-- Create a `.env` file in the project root
-- Add necessary configuration variables
 
 ## 🔍 Key Design Patterns
 
@@ -111,15 +106,7 @@ Hosted Link: [https://rbac-admin-portal.vercel.app](https://rbac-admin-portal.ve
 
 ## 📝 License
 
-[Specify your license, e.g., MIT]
-
-## 👥 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+MIT License
 
 ## 📞 Contact
 
